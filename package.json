@@ -1,0 +1,31 @@
+{
+  "name": "tft-teamcode-decoder",
+  "version": "1.0.0",
+  "description": "Lmaoooooo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttkienn/tft-teamcode-decoder.git"
+  },
+  "keywords": [
+    "tft",
+    "teamfight-tactics",
+    "teamcode",
+    "decoder",
+    "riot-games",
+    "community-dragon"
+  ],
+  "author": "Thiệu Trung Kiên (https://github.com/ttkienn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttkienn/tft-teamcode-decoder/issues"
+  },
+  "homepage": "https://github.com/ttkienn/tft-teamcode-decoder#readme",
+  "dependencies": {
+      "axios": "^1.13.6"
+  }
+}
