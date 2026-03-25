@@ -19,8 +19,6 @@ TFT team codes (e.g. `0235801a03435d35b332025336331000TFTSet16`) are compact hex
   </a>
   
   <h3><b>Thiệu Trung Kiên</b></h3>
-  <p><i>Software Developer / Open Source Enthusiast</i></p>
-
   <a href="https://github.com/ttkienn">
     <img src="https://img.shields.io/badge/GitHub-ttkienn-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
