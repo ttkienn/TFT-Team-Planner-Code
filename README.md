@@ -23,7 +23,7 @@ TFT team codes (e.g. `0235801a03435d35b332025336331000TFTSet16`) are compact hex
     <img src="https://img.shields.io/badge/GitHub-ttkienn-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/your-profile-link">
+  <a href="https://www.facebook.com/ttkiennn">
     <img src="https://img.shields.io/badge/Facebook-Thiệu_Trung_Kiên-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
