@@ -11,7 +11,7 @@ TFT team codes (e.g. `0235801a03435d35b332025336331000TFTSet16`) are compact hex
 ---
 ---
 
-## 👨‍💻 Tác giả
+## Author
 
 <div align="center">
   <a href="https://github.com/ttkienn">
